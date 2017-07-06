@@ -7,11 +7,11 @@ def add(num1, num2):
     return num1 + num2
 
 def add_mult(num1, num2, num3):
-    """Return the sum of the three input integers."""
+    """Add first two and multiply sum with third."""
     return (num1 + num2) * num3
 
 def add_cubes(num1, num2):
-    """Return the sum of the three input integers."""
+    """Return the sum of the two cubes"""
     return num1**3 + num2**3
 
 
