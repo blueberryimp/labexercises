@@ -6,6 +6,10 @@ def add(num1, num2):
 
     return num1 + num2
 
+def add_mult(num1, num2, num3):
+    """Return the sum of the three input integers."""
+    return (num1 + num2) * num3
+
 
 def subtract(num1, num2):
     """Return the second number subtracted from the first."""
